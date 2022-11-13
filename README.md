@@ -1,6 +1,6 @@
 **About me**
 
-- 💼 Fullstack Engineer at [Soat](http://soat.fr/)
+- 💼 Advanced Fullstack consultant at [Soat](http://soat.fr/)
 
 - ❤️ I love writing article on my blog [superSharp.tech](http://supersharp.tech/)
 
