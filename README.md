@@ -1,8 +1,8 @@
 **About me**
 
-- 💼 Advanced Fullstack consultant at [Soat](http://soat.fr/)
+- 💼 Staff engineer @ Direct assurance
 
-- ❤️ I love writing article on my blog [superSharp.tech](http://supersharp.tech/)
+- Blog [superSharp.tech](http://supersharp.tech/)
 
 - 💬 Ask me about anything [here](https://github.com/ahdbk/ahdbk/issues)
 
